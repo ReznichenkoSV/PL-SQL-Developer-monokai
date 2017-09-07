@@ -1,0 +1,1 @@
+xmlserialize(content xmltype([#]) AS CLOB indent size = 2) 

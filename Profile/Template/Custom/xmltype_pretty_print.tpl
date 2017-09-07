@@ -1,0 +1,1 @@
+xmltype([#]).extract('*').getclobval()

@@ -1,0 +1,1 @@
+xmlroot(xmltype([#]), version '1.0')
