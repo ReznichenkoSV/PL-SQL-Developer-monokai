@@ -32,7 +32,8 @@ After start activate Monokai theme
 ### Install AutoReplace.txt
 
 Put file `AutoReplace.txt` into your documents and specify the path in the settings `Preferences->Editor`.
-Available autoreplace commands
+
+Available autoreplace commands:
 
     td_ = Custom\to_date.tpl
     tl_ = Custom\to_date long.tpl
