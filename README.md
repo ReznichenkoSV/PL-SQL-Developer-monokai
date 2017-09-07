@@ -11,7 +11,9 @@ Monokai color scheme for Pl/Sql Developer.
 <a name="screenshots"></a>
 ## Screenshots
 
-![Monokai in Pl/Sql Developer](docs/images/plsqldev_monokai.png?raw=true)
+![Monokai in PL/SQL Developer](docs/images/plsqldev_monokai.png?raw=true)
+
+![Monokai in PL/SQL Developer](docs/images/plsqldev_monokai_1.png?raw=true)
 
 ## Installation
 
