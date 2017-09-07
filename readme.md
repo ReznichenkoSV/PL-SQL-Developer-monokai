@@ -1,13 +1,21 @@
 # PL/SQL Developer-monokai
 
+- [Screenshots](#screenshots)
+- [Install configuration files](#install-configuration-files)
+- [Install `AutoReplace.txt`](#install-autoreplace)
+- [Install `Beautifier.br`](#install-beautifier)
+- [Install font `Input`](#install-font-input)
+
 Monokai color scheme for Pl/Sql Developer.
 
+<a name="screenshots"></a>
 ## Screenshots
 
 ![Monokai in Pl/Sql Developer](plsqldev_monokai.png?raw=true)
 
 ## Installation
 
+<a name="install-configuration-files"></a>
 ### Install configuration files
 
 Put `Profile\customtoolbars.ini` and `Profile\docking12.ini` files in your `%USERPROFILE%\AppData\Roaming\PLSQL Developer 12\` directory.
@@ -20,7 +28,8 @@ After start activate Monokai theme
 
 ![Activate theme Monokai in Pl/Sql Developer](plsqldev_monokai_activate.png?raw=true)
 
-### Install `AutoReplace.txt`
+<a name="install-autoreplace"></a>
+### Install AutoReplace.txt
 
 Put file `AutoReplace.txt` into your documents and specify the path in the settings `Preferences->Editor`.
 Available autoreplace commands
@@ -45,10 +54,12 @@ Available autoreplace commands
     xr_ = Custom\xmltype_xmlroot.tpl
     regl_ = Custom\regexp_like.tpl
 
+<a name="install-beautifier"></a>
 ### Install `Beautifier.br`
 
 Put file `Beautifier.br` into your documents and specify the path in the settings `Preferences->PL/SQL Beautifier`.
 
+<a name="install-font-input"></a>
 ### Install font Input
 
 Download link [Font Input](http://input.fontbureau.com/)
