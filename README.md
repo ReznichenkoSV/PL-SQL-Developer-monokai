@@ -74,7 +74,7 @@ Download link [Font Input](http://input.fontbureau.com/)
 | Element           | Prefix | 1st char    | Allowed chars | Suffix | Description                                            |
 |-------------------|--------|-------------|---------------|--------|--------------------------------------------------------|
 | Parameter         | p_     | Alpha Upper |               |        | Use prefix p_ for parameter name.                      |
-| Constant          | ñ_     | Alpha Upper |               |        | Use prefix c_ and alpha upper for constant name.       |
+| Constant          | c_     | Alpha Upper |               |        | Use prefix c_ and alpha upper for constant name.       |
 | Variable          | l_     | Alpha Upper |               |        | Use prefix l_ and alpha upper for local variable name. |
 | Variable(package) | g_     | Alpha Upper |               |        | Use g_ prefix and alpha upper for global variable name.|
 | Exception         | e_     | Alpha Upper |               |        | Use e_ prefix and alpha upper for exception name.      |
